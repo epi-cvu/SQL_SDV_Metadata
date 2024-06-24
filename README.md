@@ -1,4 +1,5 @@
 # SQL Database Structure to SDV Multitable Metadata Converter 
+![Static Badge](https://img.shields.io/badge/Python-version-yellow?style=flat&logo=Python&logoColor=yellow)
 This tool will be used to turn SQL file to a specific SDV file format in order to use the DayZSynthetizer to populate the database. 
 
 <!-- TABLE OF CONTENTS -->
